@@ -1,7 +1,8 @@
-# gsheet-to-gforms
+## gsheet-to-gforms
 Conversion of data in Google Sheets into Google Forms 
 
-# openGsheetToGformChecklist()
+
+# To use sheetToForm.gs
 - Start with a categorized list of items:
 ![image](https://user-images.githubusercontent.com/18394882/187067773-efe5b6c8-bd49-4174-a83e-c45ad3ec1f69.png)
 - Then copy paste the code to the app scripts editor on the form where the list should appear
